@@ -1,7 +1,7 @@
 name: window_manager
 description: This plugin allows Flutter desktop apps to resizing and repositioning the window.
 version: 0.3.4
-homepage: https://github.com/leanflutter/window_manager
+homepage: https://github.com/jlz139/rustdesk_window_manager
 
 platforms:
   linux:
@@ -26,7 +26,7 @@ dependencies:
   path: ^1.8.0
   screen_retriever: #^0.1.2
     git:
-      url: https://github.com/Kingtous/rustdesk_screen_retriever.git
+      url: https://github.com/jlz139/rustdesk_screen_retriever
       ref: 406b9b0
 
 dev_dependencies:
